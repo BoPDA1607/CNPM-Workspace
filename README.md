@@ -1,1 +1,1 @@
-# CNPM-Workspace
+# Project name
